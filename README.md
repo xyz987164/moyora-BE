@@ -16,7 +16,7 @@
 
 ## 🔧 2차 개인 리팩토링 내역
 
-- `검색엔진 개선` → Elasticsearch 적용
+- `검색엔진 개선` → Elasticsearch 적용 (SQL vs ElasticSearch: 검색 속도 및 정확도 비교 [[참고링크]](https://xyz987164.tistory.com/28))
 - `기존 SQL 검색` → 형태소 분석기, ngram, fuzziness 적용
 - `추천/검색 고도화`
 - `태그 자동 추출 로직` → AI 명사 추출 후 Gemini API 활용
